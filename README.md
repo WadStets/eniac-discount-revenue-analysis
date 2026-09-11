@@ -23,9 +23,13 @@ Study project analyzing discount behavior and its impact on revenue and product 
 ## Project Structure
 
 eniac-discount-revenue-analysis/
-├── data/ # raw and/or cleaned datasets
-├── eniac_disc_analysis.ipynb # main analysis notebook
-├── eniac_discount_strategy_presentation.pptx # summary presentation
+
+├── data/
+
+├── eniac_disc_analysis.ipynb
+
+├── eniac_discount_strategy_presentation.pptx
+
 └── README.md
 
 
