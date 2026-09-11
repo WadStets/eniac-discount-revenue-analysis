@@ -12,9 +12,9 @@ Focused on data cleaning and data analysis using Python.
 
 3 Build a consolidated master dataset
 
-3 Analyze discount structure and discount intensity
+4 Analyze discount structure and discount intensity
 
-4 Support data-driven pricing and margin decisions
+5 Support data-driven pricing and margin decisions
 
 
 ### Programming Language
